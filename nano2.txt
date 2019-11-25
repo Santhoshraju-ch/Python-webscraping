@@ -2,6 +2,7 @@ Introduction to Git:
 ====================
 
 
+password:Chiranjeevi123
 Why Git?
 
 Git is the most popuar tools among a the DVCS tools.
@@ -14,3 +15,4 @@ Creating Repository
 parallel Development
 Making Change
 Syncing Repository
+fjj
